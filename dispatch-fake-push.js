@@ -1,0 +1,1 @@
+self.dispatchEvent(fakePushEvent);

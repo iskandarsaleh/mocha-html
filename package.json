@@ -1,0 +1,15 @@
+{
+  "name": "moccha",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "chrome-opera-notification.js",
+  "dependencies": {
+    "cypress": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "test",
+  "license": "ISC"
+}
